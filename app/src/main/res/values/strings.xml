@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="subtitle">Just Do It Now</string>
+    <string name="endpage">No More Task</string>
+</resources>
